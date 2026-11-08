@@ -30,11 +30,11 @@ Das CRM steckt direkt in der App, nicht in einem fremden System:
 | **Handy und PC gleich** | Abgleich mit Konfliktlösung in beide Richtungen. Das Handy arbeitet auch ohne PC. |
 
 <p>
-<img src="bilder/1_startseite.png" width="200" alt="Startseite">
-<img src="bilder/2_wichtig.png" width="200" alt="Was jetzt wichtig ist">
-<img src="bilder/3_verkaufsstand.png" width="200" alt="Verkaufsstand">
-<img src="bilder/4_verlauf.png" width="200" alt="Verlauf eines Kontakts">
-<img src="bilder/5_einschaetzung.png" width="200" alt="Knopf Einschätzung">
+<img src="bilder/de/1_startseite.png" width="200" alt="Startseite">
+<img src="bilder/de/2_wichtig.png" width="200" alt="Was jetzt wichtig ist">
+<img src="bilder/de/3_verkaufsstand.png" width="200" alt="Verkaufsstand">
+<img src="bilder/de/4_verlauf.png" width="200" alt="Verlauf eines Kontakts">
+<img src="bilder/de/5_einschaetzung.png" width="200" alt="Knopf Einschätzung">
 </p>
 
 ## Wie es gebaut ist

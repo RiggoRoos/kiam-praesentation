@@ -6,7 +6,7 @@
 
 ‏(K)I am تطبيق أندرويد له نسخة مقابلة على الحاسوب. أطوّره بمفردي منذ عام 2026 **بمساعدة الذكاء الاصطناعي**: أنا أخطط وأقرر وأتحقق، ووكلاء البرمجة بالذكاء الاصطناعي يكتبون الشيفرة تحت إشرافي. الهدف تطبيق يستطيع استخدامه شخص لا خبرة تقنية لديه.
 
-> ملاحظة: هذه الصفحة تعرض المنتج. الشيفرة المصدرية خاصة. كل الصور مأخوذة من جهاز اختبار ببيانات مثال مختلقة (الواجهة في الصور بالألمانية، والتطبيق متوفر بـ 15 لغة).
+> ملاحظة: هذه الصفحة تعرض المنتج. الشيفرة المصدرية خاصة. كل الصور مأخوذة من جهاز اختبار ببيانات مثال مختلقة (التطبيق متوفر بـ 15 لغة).
 
 ## ماذا يفعل التطبيق
 
@@ -32,11 +32,11 @@
 </div>
 
 <p>
-<img src="bilder/1_startseite.png" width="200" alt="الشاشة الرئيسية">
-<img src="bilder/2_wichtig.png" width="200" alt="ما المهم الآن">
-<img src="bilder/3_verkaufsstand.png" width="200" alt="مراحل البيع">
-<img src="bilder/4_verlauf.png" width="200" alt="سجل جهة الاتصال">
-<img src="bilder/5_einschaetzung.png" width="200" alt="زر التقييم">
+<img src="bilder/ar/1_startseite.png" width="200" alt="الشاشة الرئيسية">
+<img src="bilder/ar/2_wichtig.png" width="200" alt="ما المهم الآن">
+<img src="bilder/ar/3_verkaufsstand.png" width="200" alt="مراحل البيع">
+<img src="bilder/ar/4_verlauf.png" width="200" alt="سجل جهة الاتصال">
+<img src="bilder/ar/5_einschaetzung.png" width="200" alt="زر التقييم">
 </p>
 
 <div dir="rtl">

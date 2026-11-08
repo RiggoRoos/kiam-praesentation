@@ -4,7 +4,7 @@
 
 (K)I am is an Android app with a PC counterpart. I have been building it on my own since 2026, **AI-driven**: I plan, decide and verify, and AI coding agents write the code under my direction. The goal is an app that someone with no technical experience can use.
 
-> Note: this page shows the product. The source code is private. All screenshots come from a test device with made-up sample data (the app UI is shown in German; 15 languages are available).
+> Note: this page shows the product. The source code is private. All screenshots come from a test device with made-up sample data (15 languages are available).
 
 ## What the app does
 
@@ -30,11 +30,11 @@ The CRM lives inside the app, not in an external system:
 | **Phone and PC alike** | Two-way sync with conflict resolution. The phone also works without the PC. |
 
 <p>
-<img src="bilder/1_startseite.png" width="200" alt="Home screen">
-<img src="bilder/2_wichtig.png" width="200" alt="What matters now">
-<img src="bilder/3_verkaufsstand.png" width="200" alt="Sales pipeline">
-<img src="bilder/4_verlauf.png" width="200" alt="Contact history">
-<img src="bilder/5_einschaetzung.png" width="200" alt="Assessment button">
+<img src="bilder/en/1_startseite.png" width="200" alt="Home screen">
+<img src="bilder/en/2_wichtig.png" width="200" alt="What matters now">
+<img src="bilder/en/3_verkaufsstand.png" width="200" alt="Sales pipeline">
+<img src="bilder/en/4_verlauf.png" width="200" alt="Contact history">
+<img src="bilder/en/5_einschaetzung.png" width="200" alt="Assessment button">
 </p>
 
 ## How it is built
